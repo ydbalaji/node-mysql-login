@@ -24,6 +24,8 @@
     "util": "^0.12.3"
   },
   "devDependencies": {
-    "nodemon": "^2.0.4"
+    "nodemon": "^2.0.4",
+    "constantinople": ">=3.1.1",
+    "clean-css": ">=4.1.11"
   }
 }
